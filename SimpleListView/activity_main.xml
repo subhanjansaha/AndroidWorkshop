@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
+
+<!--The layout for this activity only consists of a ListView. A ListView is a android component that is used to show information in the form of lists
+The ListView is declared in the xml layout file so it can be displayed on the screen. A unique ID has been assigned to the ListView so that it can be 
+referenced from the MainActivity and the data for the list can be fed into the ListView to show on the screen-->
 <ListView xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
